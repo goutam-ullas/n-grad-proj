@@ -1,3 +1,11 @@
 h1, p {
   font-family: Lato;
 }
+
+.mapContainer {
+position: absolute;
+top: 0;
+right: 0;
+left: 0;
+bottom: 0;
+}
